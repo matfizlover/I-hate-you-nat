@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jak chronić dane osobowe?</title> 
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <img src="do.jpg">
+</head>
+<style>  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li1 {
+    float: left;
+  }
+  
+  li1 a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  </style>
+
+  <body>
+  
+  <ul1>
+    <li1><a href="#A">Dane osobowe</a></li1>
+    <li1><a href="#B">Sposoby na ochronę</a></li1>
+    <li1><a href="#C">Zagrożenia</a></li1>
+    <li1><a href="#D">Bibliografia</a></li1>
+  </ul1>
+ 
+
+
+</head>
+  <ol>
+    <li>Czym są dane osobowe?</li>
+    <li>Jak chronić dane osobowe?</li>
+    <li>Zagrożenia związane z udostępnieniem danych osobowych</li>
+    <li>Bibliografia</li>
+  </ol>
+<body>
+
+<style>
+ol {
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+  border: 5px solid purple;
+  padding: 30px;
+}
+h {
+  color: pink;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+  border: 2px solid palevioletred;
+  padding: 30px
+}
+table, th, td {
+  border:1px solid black;
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+}
+p2 {
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+}
+ul {
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+  border: 2px solid palevioletred;
+  padding: 30px
+}
+p3 {
+  color: plum;
+  font-family: verdana;
+  font-size: 100%;
+}
+</style>
+<h><b>Czym są dane osobowe?</b></h>
+<p><a href="https://pl.wikipedia.org/wiki/Dane_osobowe"><id="A"><em>Dane osobowe</em></id></a> stanowią wszelkie informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania żyjącej osoby fizycznej. </p>
+<h> <b><id="B"> Jak chronić dane osobowe?</id></b></h>
+<p2><ol>
+    <li>Nie przesyłaj kopii swoich dokumentów</li>
+    <li>Przy zakładaniu kont na różnych stronach zwróć uwagę czy strona jest zabezpieczona, szczególnie jeśli podajesz ważne dane.</li>
+    <li>Nie udostępniaj danych takich jak adres w internecie</li>
+    <li>Nie pozwalaj zapisywać hasła do takich stron jak bank czy profil zaufany</li>
+    <li>Usuwaj dane z urządzeń, z których już nie korzystasz</li>
+    <li>Przy wstawianiu zdjęć dokumentów np prawo jazdy, zakryj dane wrażliwe</li>
+    <li>Korzystaj z weryfikacji dwuetapowej</li>
+  </ol></p2>
+  <h><b><id="C">Zagrożenia związane z danymi osobowymi</id></b></h>
+  <p3><table style="width:100%">
+    <tr>
+      <th>Sytuacja<br> Zagrożenie</th>
+      <th>Udostępnienie zdjęcia biletów lotniczych</th>
+      <th>Zapisanie hasła bankowego na komputerze w pracy</th>
+    </tr>
+    <tr>
+      <td>zagrożenie nr 1</td>
+      <td>Osoby z portalu społecznościowego mogą użyć twoich danych osobowych do zapisu na różne strony/kursy.</td>
+      <td>Osoby z pracy mogą zalogować się na twoje konto i dokonać przelewów</td>
+    </tr>
+    <tr>
+      <td>zagrożenie nr 2</td>
+      <td>Niektórzy mogą wykorzystać to do tego, by dowiedzieć się więcej o twojej rodzinie i podróży.</td>
+      <td>Jeżeli komputer nie jest chroniony hasło może zostać pozyskane przez hakerów.</td>
+    </tr>
+  </table></p3>
+  <h><id="D">Bibliografia</id></h>
+  <p><ul>
+    <li>experience.dropbox.com/pl-pl/resources/protecting-personal-info-online</li>
+    
+  </ul></p>
+</body>
+</html>
